@@ -9,6 +9,9 @@ Nos primeios cursos de HTMl e CSS disponibilizados pelo Instituto Caldeira atrav
 - Flexbox
 - E mais...
 
-Abaixo é possível visualizar o projeto desenvolvido
+Abaixo é possível visualizar o projeto desenvolvido, tanto foto, como vídeo.
 
 ![image](https://github.com/KimberlyFigueira/Instituto-Caldeira/assets/77189081/2d980bd1-f817-4d2a-9187-fc45260933f3)
+
+https://github.com/KimberlyFigueira/Instituto-Caldeira/assets/77189081/db8b6d34-ba8c-4d4c-80ce-cb98da65bde0
+
