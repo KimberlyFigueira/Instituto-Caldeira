@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+:root{
+    --cor-principal: #000;
+    --cor-secundaria: #f6f6f6;
+    --cor-terciaria: #22d4fd;
+
+    --fonte-principal: 'Krona One', sans-serif;
+    --fonte-secundaria: 'Montserrat', sans-serif;
+}
+
+body {
+    /* height: 100vh; */
+    background-color: var(--cor-principal);
+    color: var(--cor-secundaria);
+    box-sizing: border-box;
+    font-family: var(--fonte-principal);
+}
+
+.cabecalho{
+    padding: 2% 0 0 15%;
+}
+
+.menu{
+    display: flex;
+    gap: 80px;
+}
+
+.link_header{
+    color: var(--cor-terciaria);
+    font-family: var(--fonte-secundaria);
+    font-size: 24px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.link_header:hover{
+    color: #0b6e85;
+    transition-duration: 0.3s;
+}
+
+.titulo_container{
+    font-size: 36px;
+}
+
+.paragrafo {
+    font-size: 24px;
+    font-family: var(--fonte-secundaria);
+}
+
+.title{
+    color: var(--cor-terciaria);
+}
+
+.container {
+    padding: 8% 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.conteudo {
+    width: 593px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.subtitulo {
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 24px;
+}
+
+.links {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    gap: 32px;
+}
+
+.links_style{
+    gap: 16px;
+    border: 2px solid var(--cor-terciaria);
+    font-weight: 600;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 8px;
+    width: 381px;
+    padding: 21px;
+    color: var(--cor-secundaria);
+}
+
+.links_style:hover{
+    background-color: #272727;
+    transition-duration: 1.2s;
+}
+
+.rodape{
+    color: var(--cor-principal);
+    background-color: var(--cor-terciaria);
+    text-align: center;
+    padding: 24px;
+    font-family: var(--fonte-secundaria);
+}
+
+.link_rodape{
+    text-decoration: none;
+    color: var(--cor-secundaria);
+}
