@@ -22,3 +22,8 @@ Segue abaixo fotos e vídeo do portfolio atualizado
 
 https://github.com/KimberlyFigueira/Instituto-Caldeira/assets/77189081/790312c2-9e94-438a-b933-3ff0f67c28d9
 
+<hr>
+
+- Adiçaõ da responsividade ao porfolio
+
+https://github.com/KimberlyFigueira/Instituto-Caldeira/assets/77189081/38b3a9f4-915f-4acc-b66c-1ac60da66cb3
